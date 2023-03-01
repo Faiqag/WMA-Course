@@ -1,0 +1,25 @@
+@font-face
+{
+font-family: 'PermanentMarker';
+src: url(./PermanentMarker-Regular.ttf);
+}
+.Font
+{
+letter-spacing: 0.5em;
+font-family: PermanentMarker;
+}
+h3
+{
+text-align: right;
+word-spacing: 2em;
+}
+h2
+{
+text-decoration: line-through;
+font-weight: bold;
+}
+p
+{
+text-align: justify;
+text-shadow:25px 25px 25px rgb(233, 105, 105);
+}

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h3>Type Face</h3>
+    <h1 class="Font">Font Size</h1>
+    <h2>Em Px And %</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae quae blanditiis consequuntur ex assumenda ipsam dolore vero quisquam! Ullam fuga culpa quaerat in quo accusamus temporibus autem quibusdam molestiae
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum vel itaque, consequuntur harum reiciendis alias quisquam architecto minima! Vero hic perspiciatis ut ex ipsum possimus alias tempora dolorum praesentium consequatur?Lorem ipsum dolor sit amet consectetur adipisicing elit. Non maxime aut, sapiente voluptatem ipsum omnis eius quasi corrupti dolor doloribus impedit, magni voluptas quisquam officiis consequatur temporibus delectus esse quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, assumenda quaerat ut officiis, aperiam voluptate enim pariatur quas asperiores suscipit ad quia praesentium porro esse voluptates? Voluptatibus at temporibus tempora.
+    </p>
+</body>
+</html>

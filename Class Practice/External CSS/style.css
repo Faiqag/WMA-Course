@@ -1,0 +1,22 @@
+
+body
+{
+    background-color: pink;
+}
+img{
+    max-width: 100;
+    border: 1px solid gray;
+}
+.highlight {
+    background-color: #ffff00;
+    border-width: 5px;
+}
+/* h3 {
+font-style: italic;
+background-color:#333333;
+} */
+a
+{
+    color: #ffffff;
+    background-color: #333333;
+}
