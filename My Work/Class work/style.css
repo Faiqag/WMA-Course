@@ -1,0 +1,39 @@
+h1
+{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+text-indent: 2em;
+}
+h2
+{
+text-decoration: line-through;
+font: bold;
+}
+p
+{
+text-align: justify;
+font-size: 20px;
+text-shadow: 35px 35px 35px rgb(94, 93, 93)
+}
+a
+{
+color: pink;
+}
+input:active
+{
+background-color: purple;
+}
+input:focus
+{
+    border-color: rgb(85, 32, 85);
+    border: dotted;
+    /* margin: 24px 24px 24px 24px ; */
+    /* padding: 24px 24px 24px 24px ; */
+}
+label
+{
+font-size: 50px;
+border: 5px 5px 5px 5px;
+border-style: dashed;
+border-color: blue;
+}

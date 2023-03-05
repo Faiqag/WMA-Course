@@ -1,0 +1,108 @@
+h1
+{
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body
+{
+background-color:rgb(223, 238, 236)
+}
+h1
+{
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p
+{
+text-decoration:underline;
+color: rgb(196, 191, 191);
+text-align: center;
+}
+p:hover
+{
+    color: brown;
+}
+form
+{
+    border: 100%;
+    border-radius: 5px;
+    border-style:hidden;
+    padding: 20px;
+    border-color: white;
+    background-color:white;
+    margin-left: 4em;
+    margin-right: 4em;
+}
+button
+{
+    background-color: chocolate;
+    border-color: chocolate;
+    padding: 6px 12px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 32em;
+}
+.B
+{
+color: black;
+border-color: black;
+background-color:chocolate;
+margin-left: 45em;
+}
+.b1
+{
+    background-color:white;
+    border-color: white;
+    box-sizing: border-box;
+    font-size: medium;
+    padding: 6px 12px;
+    border-radius: 5px;
+    color:black;
+    margin-left: 0.5em;
+}
+.b2
+{
+    background-color:white;
+    border-color: white;
+    box-sizing: border-box;
+    font-size: medium;
+    padding: 6px 12px;
+    border-radius: 5px;
+    color:black;
+    margin-left: 0.5em;
+}
+.b3
+{
+    background-color:white;
+    border-color: white;
+    box-sizing: border-box;
+    font-size: medium;
+    padding: 6px 12px;
+    border-radius: 5px;
+    color:black;
+    margin-left: 0.5em;
+}
+.b1:hover
+{
+    color: black;
+    background-color: chocolate;
+    text-decoration: underline;
+
+
+}
+.b2:hover
+{
+    background-color: chocolate;
+    color: black;
+    text-decoration: underline;
+
+}
+.b3:hover
+{
+    color: black;
+    background-color: chocolate;
+    text-decoration: underline;
+}
+
