@@ -1,0 +1,29 @@
+.A
+{
+    border-top: 1px solid rgb(236, 221, 221);
+    margin-top: 10px ;
+    padding: 5px;
+}
+img{
+    width:200px;
+    height: 200px;
+}
+.B
+{
+    text-align: center;
+    margin-top: 20px;
+}
+.page
+{
+margin-top: 50px;
+    margin-left: 500px;
+}
+.C
+{
+    margin-top: -43px;
+    border-top: 1px solid rgb(160, 158, 158);
+}
+.D
+{
+    border-top: 1px solid rgb(160, 158, 158);
+}
